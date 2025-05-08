@@ -3,7 +3,7 @@ import { Text, View } from "react-native";
 const Home = () => {
   return (
     <View className="bg-primary">
-      <Text className="font-bold text-base">Eai teste</Text>
+      <Text className="font-bold text-base">Medicamentos</Text>
     </View>
   )
 }
